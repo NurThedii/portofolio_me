@@ -19,7 +19,7 @@ import services_logo3  from "./assets/images/Services/logo3.png";
 import mobile  from "./assets/images/Services/mobile.png";
 
 // import project1 from "./assets/images/projects/img1.png";
-import yukcarimakan from "./assets/images/projects/carimakan.png";
+import carimakan from "./assets/images/projects/carimakan.png";
 import kalkulatorgaji from "./assets/images/projects/kalkulatorgaji.png";
 import project2 from "./assets/images/projects/img2.png";
 import project3 from "./assets/images/projects/img3.png";
@@ -142,7 +142,7 @@ export const content = {
     project_content: [
       {
         title: "Yuk Cari Makan",
-        image: yukcarimakan,
+        image: carimakan,
         description: "A dynamic food website featuring store reviews, food ratings, and user comments. Discover culinary delights!",
         lang:['Laravel 11','Bootstrap 5','Java Script'],
       },
