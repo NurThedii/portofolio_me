@@ -18,7 +18,7 @@ import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3  from "./assets/images/Services/logo3.png";
 import mobile  from "./assets/images/Services/mobile.png";
 
-import project1 from "./assets/images/projects/img1.png";
+// import project1 from "./assets/images/projects/img1.png";
 import yukcarimakan from "./assets/images/projects/yukcarimakan.png";
 import kalkulatorgaji from "./assets/images/projects/kalkulatorgaji.png";
 import project2 from "./assets/images/projects/img2.png";
